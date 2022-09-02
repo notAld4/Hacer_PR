@@ -116,7 +116,7 @@ Ahora el repositorio original al contiene los cambios solicitados por y0m4r :)
     ```git branch -d yMar```
 
 - Eliminar la rama del repositorio remoto
-    ```git push mifei --delete yMar```
+    ```git push forking --delete yMar```
 
 
 *Si se desea hacer otro PR no hace falta renombrar ni enlazar las entradas remotas, desde ahora se empieza desde el paso 5*
