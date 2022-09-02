@@ -66,7 +66,7 @@ Ahora puedes hacer realizar los cambios a los archivos del repositorios
 
 **7. Enviar los cambios al repositorio original**
 
-- **Enviar la rama creada el fork de y0m4r**
+- **Enviar la rama creada del fork de y0m4r**
     - ```git push forking yMar``` 
     lo que hara es enviar los cambios hechos en la rama "yMar" al remoto forking, que corresponde al remoto de y0m4r
 
@@ -119,4 +119,4 @@ Ahora el repositorio original al contiene los cambios solicitados por y0m4r :)
     ```git branch -d yMar```
 
 
-**Eso es todo <3**
+**Eso es todo** :monkey:
