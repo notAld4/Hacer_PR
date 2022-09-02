@@ -8,6 +8,7 @@
 **1.Desde el github y0m4r hacer un fork al repositorio original (ej. <https://github.com/ic4rta/Dynamic-Forking>)**
 
 ![](assets/fork.png)
+
 Esto creara una copia exacta del repositorio original
 
 **2.El usuario y0m4r clonara el repositorio al que hizo fork**
@@ -65,14 +66,16 @@ Ahora puedes hacer realizar los cambios a los archivos del repositorios
 
 **7. Enviar los cambios al repositorio original**
 
-- Enviar la rama creada el fork de y0m4r
+- **Enviar la rama creada el fork de y0m4r**
     - ```git push forking yMar``` 
     lo que hara es enviar los cambios hechos en la rama "yMar" al remoto forking, que corresponde al remoto de y0m4r
 
     ![](assets/remoto.png)
+    
     Ahora se agrego una nueva rama que contiene los cambios que hicimos
 
-- Solicitar cambios
+
+- **Solicitar cambios**
     - Se le da click en la palabra ```branches```
     y click en "New Pull request"
 
@@ -89,14 +92,15 @@ Ahora puedes hacer realizar los cambios a los archivos del repositorios
 
     Ahora se le da click en el boton que dice "create pull request"
 
-- Del lado del perfil del usuario original llego una notificacion con el pull request 
+
+- **Del lado del perfil del usuario original llego una notificacion con el pull request**
 
 ![](assets/pullreq.png)
 
 Ahora se le da click en "Merge pull request".
 Ahora el repositorio original al contiene los cambios solicitados por y0m4r :)
 
-**7. Actulizar el fork con los cambios hechos en el repositorio original**
+**7. Actualizar el fork con los cambios hechos en el repositorio original**
 
 - Cambiar a la rama main
     ```git switch main```
