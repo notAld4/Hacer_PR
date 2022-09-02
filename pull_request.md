@@ -5,7 +5,7 @@
 - ic4rta (usuario con el repositorio original)
 - y0m4r (usuario que mandara una PR a ic4rta para modificar el repo original)
 
-**1.Desde el github y0m4r hacer un fork al repositorio original (ej. <https://github.com/ic4rta/Dynamic-Forking>)**
+**1.Desde el github, y0m4r hara un fork al repositorio original (ej. <https://github.com/ic4rta/Dynamic-Forking>)**
 
 ![](assets/fork.png)
 
